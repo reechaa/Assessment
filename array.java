@@ -13,6 +13,6 @@ return count;
 public static void main(String[] args){
 int[] array={2,4,8,9,3};
 int totalInversion=countInversion(array);
-system.out.println("Inversion:"+totalInversion);
+System.out.println("Inversion:"+totalInversion);
 }
 }
